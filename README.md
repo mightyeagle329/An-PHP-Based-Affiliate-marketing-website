@@ -1,6 +1,6 @@
 # Ecommerce Using an Affiliate marketing
 
-## A PHP e-commerce web application.
+# A PHP e-commerce web application.
 
 1. To set this web application, make sure PHP and PHPMyAdmin is installed on your server.
 2. Next open PHPMyAdmin,import the db.sql file located at database/db.sql. This will generate tables in your database on your server.
